@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92f2ea10-8ea2-49b3-95de-7e346e81d0ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="92f2ea10-8ea2-49b3-95de-7e346e81d0ee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +130,7 @@
       <workItem from="1631906540811" duration="21091000" />
       <workItem from="1631996469955" duration="5071000" />
       <workItem from="1632120156563" duration="641000" />
-      <workItem from="1632140948813" duration="1592000" />
+      <workItem from="1632140948813" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="The task is solved. Idea tests passed.">
       <created>1632082480270</created>
@@ -148,14 +146,7 @@
       <option name="project" value="LOCAL" />
       <updated>1632141845739</updated>
     </task>
-    <task id="LOCAL-00003" summary="add some files from .idea  to git repo">
-      <created>1632142227978</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1632142227978</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +166,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The task is solved. Idea tests passed." />
     <MESSAGE value="add .idea folder to git repo" />
-    <MESSAGE value="add some files from .idea  to git repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some files from .idea  to git repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .idea folder to git repo" />
   </component>
 </project>
