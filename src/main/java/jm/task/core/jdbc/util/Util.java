@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public final class Util {
 
     private static Connection INSTANCE = null;
-    private static final String PASSWORD = "neyroset7";
+    private static final String PASSWORD = "root";
     private static final String USERNAME = "root";
     private static final String URL = "jdbc:postgresql://localhost:5432/jmDaoTest";
 
