@@ -48,7 +48,6 @@ public class UserDaoJDBCImpl implements UserDao {
             System.err.println("Cannot save a user to the table 'users'.");
             e.printStackTrace();
         }
-
     }
 
     public void removeUserById(long id) {
